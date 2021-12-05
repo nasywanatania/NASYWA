@@ -628,7 +628,7 @@ function enumnse(){
 function authnse(){
     banner
     echo -e ""
-    echo -e "$yellow  [?]$white Auth Category"
+    echo -e "$yellow  [?]$white Auth Script"
     echo -e ""
     echo -e "$cyan  01$red :$white ajp-auth"
     echo -e "$cyan  02$red :$white auth-owners"
